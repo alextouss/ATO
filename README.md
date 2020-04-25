@@ -1,6 +1,6 @@
 GIT
 
-Commit local working directory:
+Commit a local working directory:
 
 1. check if git is intalled : git --version
 2. check in config if user.email and user.name are set : git config --list
