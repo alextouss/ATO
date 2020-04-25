@@ -1,4 +1,6 @@
-GIT - in the terminal 
+GIT
+
+Commit local working directory:
 
 1. check if git is intalled : git --version
 2. check in config if user.email and user.name are set : git config --list
@@ -22,3 +24,4 @@ Notes on the Terminal:
   - -a: lists all files (incl. hidden)
   - -l: produces a long listing
   - options can be concatenated (e.g. ls -la)
+
