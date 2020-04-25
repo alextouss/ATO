@@ -5,8 +5,8 @@ GIT - in the terminal
 3. press q to get out
 4. cd into the directory we want to track with git
 5. start tracking the directory with : git init
-6. Adding files to the stagging area
-
+6. Adding all files to the stagging area : git add -A
+7. Commit files with message : git commit -m "Initial commit ATO"
 
 Notes on GIT:
 
