@@ -9,7 +9,8 @@ Commit a local working directory:
 5. start tracking the directory with : git init
 6. Adding all files to the stagging area : git add -A
 7. Commit files with message : git commit -m "Initial commit ATO"
-
+git remote add origin https://github.com/alextouss/ATO.git
+git push -u origin master
 Notes on GIT:
 
 - to get help on a git <verb>: git help <verb> (e.g. git help config)
